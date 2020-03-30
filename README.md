@@ -1,6 +1,6 @@
 # tictactoe
 
-A new Flutter project.
+A flutter application with flutter for web support implemnting simple game of tic tac toe between two players on grid of 3x3.
 
 ## Getting Started
 
